@@ -32,4 +32,3 @@ $ sequelize init
       "timestamps":false
     }
 ```
-
