@@ -31,3 +31,16 @@ $ sequelize init
       "timestamps":false
     }
 ```
+
+## How to use
+install modules include (mysql2、sequelize、sequelize-cli)
+```
+$ npm install
+```
+
+run script
+```
+$ npm run start
+```
+
+* Note : You should create schema for MySQL database and connected it.
