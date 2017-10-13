@@ -17,7 +17,7 @@ $ npm install sequelize sequelize-cli mysql2 -save
 $ sequelize init
 ```
 在這邊會產出migrations、models、config、seeders
-在餓編只會使用到model，它的功用是匯入mysql中的db並轉成sequelize欄位語法
+在這邊只會使用到model，它的功用是匯入mysql中的db並轉成sequelize欄位語法
 
 [可以使用圖像化軟體將sql db匯入models資料夾](https://github.com/andyforever/sequelizer)
 
