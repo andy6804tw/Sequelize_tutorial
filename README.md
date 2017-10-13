@@ -8,8 +8,7 @@ $ express --hbs -y
 ## Step2
 安裝套件
 ```
-$ npm install sequelize 4 
-$ sequelize-cli mysql2 -save
+$ npm install sequelize sequelize-cli mysql2 -save
 ```
 
 ## Step3
