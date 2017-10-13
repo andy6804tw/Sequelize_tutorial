@@ -1,4 +1,4 @@
-#E xpress+Sequelize 
+# Express + Sequelize 
 ## Step1
 建置express環境，並使用hbs板模
 ```
@@ -23,7 +23,7 @@ $ sequelize init
 [可以使用圖像化軟體將sql db匯入models資料夾](https://github.com/andyforever/sequelizer)
 
 
-<img src="Screenshoot/img1.png">
+<img src="https://raw.githubusercontent.com/andy6804tw/Sequelize_tutorial/master/%08Screenshoot/img1.png">
 
 ## Step4
 在config設定mysql名稱與密碼，並在後加入
